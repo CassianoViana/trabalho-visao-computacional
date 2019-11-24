@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bumbo_800600</folder>
+	<filename>IMG_20191022_111155157.jpg</filename>
+	<path>/home/cassiano/Dropbox/Univali/Mestrado/semestre2/visao_computacional/images/bumbo_800600/IMG_20191022_111155157.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumbo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>118</ymin>
+			<xmax>559</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>
